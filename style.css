@@ -1,0 +1,15 @@
+h1 {text-align: center;
+    color:darkcyan
+}
+body{
+    background-color: aqua;
+}
+#pish{
+    color:blue;
+    font-size: 60px;
+ font-family: "Cedarville Cursive", system-ui;;
+font-weight: 2000;
+ width: 50%;
+ margin-left: 400px;
+
+}
